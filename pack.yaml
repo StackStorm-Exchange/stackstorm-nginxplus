@@ -4,7 +4,6 @@ description: Integration between StackStorm and Nginx Plus
 keywords:
     - nginx
     - nginx-plus
-version: 1.0.0
+version: 1.0.1
 author: Copart
 email: igor.cherkaev@copart.com
-stackstorm_version: '>=2.10.0'
