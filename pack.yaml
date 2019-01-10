@@ -5,5 +5,8 @@ keywords:
     - nginx
     - nginx-plus
 version: 1.0.1
+python_versions:
+    - "2"
+    - "3"
 author: Copart
 email: igor.cherkaev@copart.com
